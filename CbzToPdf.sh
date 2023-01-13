@@ -36,7 +36,6 @@ if [[ "$USER" != "root" ]]; then
             exit 1
             ;;
     esac
-fi
 # Of course, we can take 
 
 DEFAULT="${PWD}"
